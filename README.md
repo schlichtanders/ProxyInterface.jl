@@ -1,4 +1,8 @@
-ProxyInterface
+
+> :warning: renamed repository to plural [ProxyInterfaces.jl](https://github.com/schlichtanders/ProxyInterfaces.jl).
+
+
+ProxyInterface (DEPRECATED in favour of [ProxyInterfaces.jl](https://github.com/schlichtanders/ProxyInterfaces.jl))
 ==============
 
 [![Build Status](https://github.com/schlichtanders/ProxyInterface.jl/workflows/CI/badge.svg)](https://github.com/schlichtanders/ProxyInterface.jl/actions)
